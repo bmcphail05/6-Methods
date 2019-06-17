@@ -1,22 +1,50 @@
 6 - Research Methods
 
-We do research all the time, or at least we use the word research regularly. Trying to figure out where to stay on a vacation? “Research” it online! Choosing a restaurant? Do some “research” by asking your friends about their favorite places in the area. Hoping to learn more about a movie before shelling out money for tickets? “Research” reviews and see what other people think.
+https://opentextbc.ca/introductiontosociology2ndedition/chapter/chapter-2-sociological-research/
 
-You can probably tell from my use of quotations that looking something up online is not the same thing as doing sociological research. This should go without saying, but on several occasions I have seen students genuinely confuse a Google search with doing social science research.
+We do "research" all the time (i.e., online reviews, Google).
 
-Here’s what sociological research is: the systematic study of people, institutions, or social phenomena using measurement techniques such as surveys, interviews, focus groups, ethnography, or comprehensive analysis of texts. Sociological research may also include the analysis of data collected by government agencies or other sources.
-The word systematic underlines the key difference between this kind of research and an online search. A sociologist uses a system, or a formal process through which we gather data. An online search is typically not systematic, and in fact is largely driven by the search engine’s algorithm that privileges some sites over others. This means that the top results are often determined by factors such as which sites get the most traffic. While we might learn some background information this way, it is not exactly sociological research.
+What's the difference between Googling something at sociological research?
 
-Does this mean that a Google search plays no part in doing systematic research? Not necessarily. We might find the results of research others conducted this way that can inform our literature review, although we are probably better off using a database that focuses solely on research-related publications to do so.
+# SLIDE - sociology definition
+Remember our definition?
 
-We can also do an online search to find secondary sources of data. This might mean finding census data, data on health, crime, or other phenomena that others have collected and we can analyze independently. Certainly using statistics from these and other sites provides useful background information and is the first step in conducting our own research. Technically, in order for something to qualify as our own research we might conduct a unique analysis, even if we are using data someone else collected.
+The words "scientific" and "systematic" underlines the key difference between this kind of research and an online search.
 
-The word systematic is key for qualitative research as well. We are regular observers of the world around us, but this doesn’t mean that our casual observations and conclusions qualify as research. When conducting ethnography, we might start with basic observations that lead us to look more carefully at a group’s interactions.
+A sociologist uses a system, or a formal process through which we gather data. An online search is typically not systematic.
 
-Because of something call observer bias, we may only look for examples that support our preconceived notions about things. But if we are consciously questioning our own assumptions, we are primed to look for examples that challenge our beliefs. Conducting qualitative research systematically means constantly challenging our own assumptions, asking questions and being open to finding out that our assumptions are wrong, or at least that there are notable exceptions.
+Sociological research is the creation of "knowledge." Have you ever thought about where knowledge comes from? Researchers have to study something and figure. How do we know what we know?
 
-Whether it is making sure that our observations take place in a variety of times and places or contexts or asking the people we observe about their perspectives on their experiences, we can develop a more in-depth understanding of the people we are studying. As you can see, this is far more involved than just watching and drawing conclusions.
+###
 
-It is true that we can learn a lot simply by looking things up online—that might even be how you found this blog—but to qualify as social science research takes a few extra steps, including a critical perspective rooted in sociological theory.
+# Activity
+1. Have you ever been in love?
 
-Have you heard the word “research” used in any other context that differs from social science? What might be a better way to describe our everyday observations and searches online?
+Cross-tabs for
+- Gender
+- Race?
+- Oldest child?
+- birthday in Jan - Jun
+- Played sports in high school
+- Other characteristics? (religion)
+
+Patterns not definitive explanations.
+
+Quantitative research techniques like survey research are extremely effective at exploring, describing, and explaining social forces in very large groups, even whole populations. Indeed most of the best nationally representative survey research is done with surprisingly small sample sizes. (this works, but must take stats).
+
+A carefully constructed quantitative study of love can tell us how prevalent this phenomenon is in the US population, its relationship to important demographic and social characteristics of the population, and even something about the attitudes and behaviors related to the phenomenon.
+
+2. Pair Up
+Students are to interview on another. Each must take notes. Ask them to conduct an interview exploring the question “what is love?”  
+
+Conclude the interview period and give students a moment or two to reflect on their notes. Then ask for volunteers to report on what was learned. Record key words and short phrases from these brief reports on the board. Emphasize that this material is data. Continue collecting and recording key words and phrases on the board until the data becomes saturated, that is until new and novel entries begin to taper off. Encourage students to add anything else not already included in the data set.  
+
+coding this data by asking them to organize key words and phrases into categories or dimensions based on their similarity.
+
+Point out the incredibly rich and detailed knowledge that the class has generated about the research topic. Love is something most everyone knows something about. But, now the class has unearthed a multidimensional and perhaps contradictory set of cultural meanings condensed in the concept. Love is an important part of our culture. But its meaning is contextual and contingent. Describe how in-depth interviewing as a research technique is well suited to exploring, describing, explaining meaning systems in rich detail.
+
+
+# Conclusion
+Summarize this exercise by explaining how quantitative techniques, here exemplified by survey research, are very powerful tools for gathering targeted information from very large populations. However, the research must carefully specify in advance how the topic under investigation is to be measured. This work often proceeds deductively as the researcher draws on existing scholarship and theorizing to craft good measures.  
+
+Qualitative techniques, here exemplified by the in-depth interview, are very powerful tools for capturing meanings and nuances, but from relatively smaller subsets of a population. The work often proceeds inductively as the researcher moves from the accounts of experiences of people in a social world to sensitizing concepts and theory about those social worlds.
